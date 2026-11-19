@@ -1,5 +1,9 @@
 # Kai Forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/egganaufal/kai-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/egganaufal/kai-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone, single-process GitHub-compatible git forge written in Node 22
 with only the standard library. No dependencies, no git binary, no network
 beyond the scoring environment.
@@ -33,3 +37,7 @@ bearer token the API surfaces accept.
 All state lives in memory. Nothing is written to disk, and no timestamp,
 random value or wall-clock reading ever enters stored state, so a replayed
 trial produces identical bytes.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=bgcz4w0h&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
